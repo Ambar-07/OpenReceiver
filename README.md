@@ -115,7 +115,7 @@ Because OpenReceiver strictly segregates its logic from its UI, building require
 | **Android TV App** | Android Studio (NDK) | [View Android Build Guide](docs/BUILDING.md#4-building-for-android-tv) |
 
 ### Automated Packaging
-For Windows deployments, OpenReceiver includes a standalone **Inno Setup** script (`windows/packaging/OpenReceiver.iss`). Compiling this script generates a professional `.exe` installer that automatically registers the required Windows Defender Firewall exceptions for UDP/TCP AirPlay traffic.
+For Windows deployments, OpenReceiver includes a standalone **Inno Setup** script (`windows/packaging/OpenReceiver.iss`). Compiling this script generates a professional `.exe` installer that automatically registers the required Windows Defender Firewall exceptions for UDP/TCP AirPlay traffic
 
 ---
 
